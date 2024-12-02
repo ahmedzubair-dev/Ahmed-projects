@@ -1,0 +1,9 @@
+pyttsx3
+SpeechRecognition
+wikipedia
+pywhatkit
+requests
+newsapi-python
+pyjokes
+pyautogui
+clipboard
